@@ -1,0 +1,4 @@
+SQL para Pandas
+
+Union do sql
+df_union = pd.concat([df1. df2]).reset_index(drop=True)
