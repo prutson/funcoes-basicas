@@ -3,7 +3,7 @@
 ## Criar a imagem Docker
 Para criar uma imagem Docker a partir dos arquivos fornecidos, siga os passos abaixo:
 
-`docker build -t <nome da imagem> .
+`docker build -t <nome da imagem> .`
 
 Substitua <nome da imagem> pelo nome desejado para a imagem.
 
