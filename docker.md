@@ -1,9 +1,9 @@
-`# Instruções para executar a aplicação Docker
+# Instruções para executar a aplicação Docker
 
 ## Criar a imagem Docker
 Para criar uma imagem Docker a partir dos arquivos fornecidos, siga os passos abaixo:
 
-```bash`
+```bash
 docker build -t <nome da imagem> .
 
 Substitua <nome da imagem> pelo nome desejado para a imagem.
