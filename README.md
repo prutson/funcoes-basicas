@@ -1,2 +1,2 @@
-# fun-es-basicas
+# funções-basicas
 Funções básicas que costumo esquecer
